@@ -2,6 +2,10 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,f2pool.com
+DOMAIN-SUFFIX,miningpoolstats.stream
+DOMAIN-SUFFIX,www.mining-dutch.nl
+DOMAIN-SUFFIX,hashrate.no
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
